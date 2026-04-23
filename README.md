@@ -29,8 +29,6 @@
     Se você gosta de falar sobre design, tecnologia ou quer trocar figurinhas sobre estudos, sinta-se à vontade para me conectar ou enviar uma mensagem!
   </p>
 
-  <p>
-    📍 Baseado em [Sua Cidade/Estado]<br>
-    💻 Portfólio em construção: [Link do seu Behance ou Dribbble se tiver]
-  </p>
+  
+
 </div>
