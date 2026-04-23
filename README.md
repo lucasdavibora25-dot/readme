@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>Olá, eu sou o [Seu Nome]! 👋</h1>
+  <h1>Olá, eu sou o Lucas! 👋</h1>
   
   <p>
     🚀 Atualmente, estou mergulhando de cabeça no universo do <b>Web Design</b> e da <b>Experiência do Usuário (UX/UI)</b>. 
